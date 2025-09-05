@@ -1,6 +1,7 @@
-# Banking Application – Account Management System
 
-### Java Programming Assignment 1  
+# Java Programming Assignment 1
+
+# Banking Application – Account Management System  
 
 **Name:** KHUSHI
 **Roll No.:** 2401010115
@@ -48,6 +49,7 @@ The system enables users to perform essential banking operations including accou
 3. Compile the program:
 
 javac BankingApp.java
+
 4. Run the program:
 
 java BankingApp
